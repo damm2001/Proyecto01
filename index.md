@@ -1,5 +1,4 @@
 
-Code snippet
-# Encabezado 1
+# DIEGO ANDRES MARTINEZ MENDIA
 ## Encabezado 2
 ### Encabezado 3
